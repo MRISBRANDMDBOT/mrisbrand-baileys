@@ -1,7 +1,7 @@
-# 🐺 FENRIR-X BAILEYS ⚡
+# 🐺 MRISBRAND BAILEYS ⚡
 
 <p align="center">
-  <img src="https://telegra.ph/file/your-logo-link-here.jpg" alt="FENRIR-X" width="200">
+  <img src="https://telegra.ph/file/your-logo-link-here.jpg" alt="MRISBRAND" width="200">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 📦 Installation
 
-To use **FENRIR-X Baileys** in your project, update your `package.json` dependencies:
+To use **MRISBRAND BAILEYS** in your project, update your `package.json` dependencies:
 
 ```json
-"@whiskeysockets/baileys": "github:FENRIR-X/Fenrir-baileys",
+"@whiskeysockets/baileys": "github:MRISBRANDMDBOT/mrisbrand-baileys",
